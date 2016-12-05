@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"legible-data\"\noutput_dir: \".\"\nnavbar:\n  title: \"legible data\"\nleft:\n  - text: \"home\"\nhref: index.html",
+    "contents" : "name: \"legible-data\"\noutput_dir: \".\"\nleft:\n  - text: \"home\"\nhref: index.html",
     "created" : 1480970620595.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1716087001",
+    "hash" : "540356463",
     "id" : "A97DB8E0",
-    "lastKnownWriteTime" : 1480971143,
-    "last_content_update" : 1480971143705,
+    "lastKnownWriteTime" : 1480974645,
+    "last_content_update" : 1480974645705,
     "path" : "~/Desktop/LegibleWeb/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
