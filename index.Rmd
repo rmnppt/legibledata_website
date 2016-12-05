@@ -2,7 +2,7 @@
   title: "legible data"
 ---
   
-  We make data legible.
+  We make data legible. We encourage and enable data driven decisions.
   
   We do:
   
@@ -12,9 +12,9 @@
     
   We dont:
   
-  * promote vendor technologies
-  * charge you a subscription
-  * retain IP
+  * ~~promote vendor technologies~~
+  * ~~charge you a subscription~~
+  * ~~retain IP~~
     
   Want to embark on a data project with us?
   
