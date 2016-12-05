@@ -1,17 +1,18 @@
 {
     "collab_server" : "",
-    "contents" : "---\n  title: \"legible data\"\n---\n  \n  We make data legible.",
+    "contents" : "---\n  title: \"legible data\"\n---\n  \n  We make data legible.\n  \n  We do:\n  \n  * analyse your data\n  * create legible data solutions\n  * teach you how to operate them\n    \n  We dont:\n  \n  * promote vendor technologies\n  * charge you a subscription\n  * retain IP\n    \n  Want to embark on a data project with us?\n  \n  [Get in touch](mailto:info@legibledata.com)",
     "created" : 1480970745902.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2392607171",
+    "hash" : "3895788218",
     "id" : "ECC52499",
-    "lastKnownWriteTime" : 1480974637,
-    "last_content_update" : 1480974637936,
+    "lastKnownWriteTime" : 1480976058,
+    "last_content_update" : 1480976058108,
     "path" : "~/Desktop/LegibleWeb/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "docOutlineVisible" : "0",
         "tempName" : "Untitled1"
     },
     "relative_order" : 2,

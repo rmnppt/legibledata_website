@@ -3,3 +3,19 @@
 ---
   
   We make data legible.
+  
+  We do:
+  
+  * analyse your data
+  * create legible data solutions
+  * teach you how to operate them
+    
+  We dont:
+  
+  * promote vendor technologies
+  * charge you a subscription
+  * retain IP
+    
+  Want to embark on a data project with us?
+  
+  [Get in touch](mailto:info@legibledata.com)
