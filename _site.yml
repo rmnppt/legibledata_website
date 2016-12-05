@@ -1,0 +1,7 @@
+name: "legible-data"
+output_dir: "."
+navbar:
+  title: "legible data"
+left:
+  - text: "home"
+href: index.html

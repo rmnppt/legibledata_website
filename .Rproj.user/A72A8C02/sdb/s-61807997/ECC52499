@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\n  title: \"legible data\"\n---\n  \n  We make data legible.",
+    "created" : 1480970745902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2392607171",
+    "id" : "ECC52499",
+    "lastKnownWriteTime" : 1480971232,
+    "last_content_update" : 1480971232531,
+    "path" : "~/Desktop/LegibleWeb/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

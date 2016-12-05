@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"legible-data\"\noutput_dir: \".\"\nnavbar:\n  title: \"legible data\"\nleft:\n  - text: \"home\"\nhref: index.html",
+    "created" : 1480970620595.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1716087001",
+    "id" : "A97DB8E0",
+    "lastKnownWriteTime" : 1480971143,
+    "last_content_update" : 1480971143705,
+    "path" : "~/Desktop/LegibleWeb/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

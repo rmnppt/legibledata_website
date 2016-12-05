@@ -1,0 +1,5 @@
+---
+  title: "legible data"
+---
+  
+  We make data legible.
