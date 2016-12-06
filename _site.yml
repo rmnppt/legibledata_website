@@ -1,5 +1,14 @@
 name: "legible-data"
 output_dir: "."
-left:
-  - text: "home"
-href: index.html
+navbar:
+  title: "Legible Data"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Team"
+      href: team.html
+output:
+  html_document:
+    css: style.css

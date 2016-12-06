@@ -1,21 +1,20 @@
----
-  title: "legible data"
----
-  
-  We make data legible. We encourage and enable data driven decisions.
-  
-  We do:
+
+<br>
+
+# We encourage and enable data driven decisions.
+
+ We do:
   
   * analyse your data
   * create legible data solutions
-  * teach you how to operate them
-    
-  We dont:
+  * use open source software
+  * teach you how to do this
+
+ We dont:
   
   * ~~promote vendor technologies~~
   * ~~charge you a subscription~~
   * ~~retain IP~~
-    
-  Want to embark on a data project with us?
   
-  [Get in touch](mailto:roman@legibledata.org,duncan@legibledata.org)
+## Want to embark on a data project with us? 
+<button>[Get in touch](mailto:roman@legibledata.org,duncan@legibledata.org)</button>
