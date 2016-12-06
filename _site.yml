@@ -3,8 +3,11 @@ output_dir: "."
 navbar:
   title: "Legible Data"
   left:
+<<<<<<< HEAD
     - text: "Home"
       href: index.html
+=======
+>>>>>>> 1fafe571140a670893c5938616b970e579cd8970
     - text: "About"
       href: about.html
     - text: "Team"
