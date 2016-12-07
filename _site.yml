@@ -11,4 +11,6 @@ navbar:
       href: team.html
 output:
   html_document:
+    include:
+      after_body: footer_graph.html
     css: style.css
