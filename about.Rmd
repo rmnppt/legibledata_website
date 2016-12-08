@@ -1,5 +1,5 @@
+<div id = "content">
 <br>
-<div id = "about">
 We are a small team providing bespoke data science for organisations in all industries. Our philosophy is to empower our clients. Our approach is to start simple and build up to more complex. 
 
 The modern data science toolkit is dominated by open source software. In the spirit of openness, we do not retain any rights on anything developed in collaboration with us. We believe that you can get started on projects very quickly with the minimal of pain.
