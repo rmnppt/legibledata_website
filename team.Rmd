@@ -1,4 +1,3 @@
-<div id = "content">
 <br>
 
 Duncan Hart (MBA) - CEO
@@ -10,5 +9,3 @@ DH has 20 years of experience leading teams in the oil and gas services sector..
 Roman Popat (PhD) - Data Scientist
 
 RP is a former biologist, data enthusiast.
-
-</div>

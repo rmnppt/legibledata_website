@@ -1,4 +1,3 @@
-<div id = "content">
 <br>
 We are a small team providing bespoke data science for organisations in all industries. Our philosophy is to empower our clients. Our approach is to start simple and build up to more complex. 
 
@@ -9,4 +8,3 @@ From simple stats and visualisation to machine learning on supercomputers. We ha
 Want to chat about the possibilities?
 
 <button>[Get in touch](mailto:roman@legibledata.org,duncan@legibledata.org)</button>
-<div>

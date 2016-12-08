@@ -1,4 +1,3 @@
-<div id = "content">
 <br>
 # We encourage and enable data driven decisions.
 
@@ -17,4 +16,3 @@
   
 ## Want to embark on a data project with us? 
 <button>[Get in touch](mailto:roman@legibledata.org,duncan@legibledata.org)</button>
-</div>
