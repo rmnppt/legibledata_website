@@ -25,9 +25,9 @@ function update_m() {
 var selection = svgm.selectAll("circle")
   .data(dat).transition().duration(3000)
   .style("fill", function(){ return randCol(); })
-  .attr("cy", function(d){ return d + randomVal(10) + "%"; })
-  .attr("cx", function(d){ return d + randomVal(10) + "%"; })
-  .attr("r", function(){ return randomVal(10); });
+  .attr("cy", function(){ return randomVal(100) + "%"; })
+  .attr("cx", function(){ return randomVal(100) + "%"; })
+  .attr("r", function(){ return randomVal(20); });
 
 };
         
