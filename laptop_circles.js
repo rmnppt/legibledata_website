@@ -24,7 +24,7 @@ function update_l() {
 
 // Update selection: Resize and position existing circles
 var selection = svgl.selectAll("circle")
-  .data(dat).transition().duration(3000)
+  .data(dat).transition().duration(5000)
   .style("fill", function(){ return randCol(); })
   .attr("cy", function(){ return randomVal(100) + "%"; })
   .attr("cx", function(){ return randomVal(100) + "%"; })
@@ -34,4 +34,4 @@ var selection = svgl.selectAll("circle")
         
 d3.interval(function() {
     update_l();
-}, 1000);
+}, 1500);
