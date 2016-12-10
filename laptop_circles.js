@@ -14,8 +14,8 @@ svgl.selectAll("circle.laptop")
     .data(dat)
   .enter().append("circle")
     .style("fill", "rgb(220, 190, 220)")
-    .attr("cy", function() { return randomVal(550); })
-    .attr("cx", function() { return randomVal(800); })
+    .attr("cy", function() { return randomVal(100) + "%"; })
+    .attr("cx", function() { return randomVal(100) + "%"; })
     .attr("r", function() { return randomVal(20); })
     .attr("class", "laptop");
         
@@ -26,8 +26,8 @@ function update_l() {
 var selection = svgl.selectAll("circle")
   .data(dat).transition().duration(3000)
   .style("fill", function(){ return randCol(); })
-  .attr("cy", function(){ return randomVal(550); })
-  .attr("cx", function(){ return randomVal(800); })
+  .attr("cy", function(){ return randomVal(100) + "%"; })
+  .attr("cx", function(){ return randomVal(100) + "%"; })
   .attr("r", function(){ return randomVal(20); });
 
 };

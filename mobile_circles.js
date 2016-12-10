@@ -14,8 +14,8 @@ svgm.selectAll("circle.mobile")
     .data(dat)
   .enter().append("circle")
     .style("fill", "rgb(220, 190, 220)")
-    .attr("cy", function() { return randomVal(440); })
-    .attr("cx", function() { return randomVal(220); })
+    .attr("cy", function() { return randomVal(100) + "%"; })
+    .attr("cx", function() { return randomVal(100) + "%"; })
     .attr("r", function() { return randomVal(10); });
         
 // update the circle positions
@@ -25,8 +25,8 @@ function update_m() {
 var selection = svgm.selectAll("circle")
   .data(dat).transition().duration(3000)
   .style("fill", function(){ return randCol(); })
-  .attr("cy", function(){ return randomVal(440); })
-  .attr("cx", function(){ return randomVal(220); })
+  .attr("cy", function(){ return randomVal(100) + "%"; })
+  .attr("cx", function(){ return randomVal(100) + "%"; })
   .attr("r", function(){ return randomVal(10); });
 
 };
