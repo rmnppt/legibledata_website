@@ -24,7 +24,7 @@ function update_m() {
 
 // Update selection: Resize and position existing circles
 var selection = svgm.selectAll("circle.mobile")
-  .data(dat_m).transition().duration(3000)
+  .data(dat_m).transition().duration(5000)
   .style("fill", function(){ return randCol(); })
   .attr("cy", function(){ return randomVal(100) + "%"; })
   .attr("cx", function(){ return randomVal(100) + "%"; })
@@ -34,4 +34,4 @@ var selection = svgm.selectAll("circle.mobile")
         
 d3.interval(function() {
     update_m();
-}, 2000);
+}, 5000);
